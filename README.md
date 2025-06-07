@@ -32,9 +32,8 @@ An interactive Streamlit web application that allows users to upload CSV/Excel f
 
 ## 📂 Project Structure
 ```
-your_project_folder/
-│
-├── app.py # Main Streamlit app
+Smart-Data-Insight-Web-App/
+├── main.py # Main Streamlit app
 ├── requirements.txt # Python dependencies
 ├── uploads/ # Folder for user-uploaded CSV files
 
